@@ -22,7 +22,7 @@ body {
 }
 
 .logo {
-  background-image: url("amazon_logo.png");
+  background-image: url("Assets/Images/amazon_logo.png");
   background-size: cover;
   height: 50px;
   width: 100%;
@@ -112,7 +112,7 @@ body {
 }
 
 .flag {
-  background-image: url(india-flag.png);
+  background-image: url(Assets/Images/india-flag.png);
   background-size: cover;
   height: 16.2px;
   width: 21.6px;
@@ -181,7 +181,7 @@ span {
 
 /******************* hero section ********************/
 .hero-section {
-  background-image: url(hero-img.jpg);
+  background-image: url(Assets/Images/hero-img.jpg);
   background-size: cover;
   height: 350px;
   display: flex;
