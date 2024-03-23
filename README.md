@@ -1,5 +1,5 @@
 # Amazon-Clone
-This is the core code from scratch to clone the landing page of Netflix using **HTML, CSS.**
+This is the core code from scratch to clone the landing page of Amazon using **HTML, CSS.**
 
 ## 📸 Screenshots
 ![Screenshot 2024-03-23 134020](https://github.com/adityarahul10/amazon-clone-html-css/assets/155125420/3ec745f1-72bb-40c0-b199-4faec2972d9f)
