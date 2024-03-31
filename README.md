@@ -1,7 +1,9 @@
 # Amazon-Clone
+
 This is the core code from scratch to clone the landing page of **Amazon** using **HTML, CSS.**
 
 ## 📸 Screenshots
+
 ![Screenshot 2024-03-23 134020](https://github.com/adityarahul10/amazon-clone-html-css/assets/155125420/3ec745f1-72bb-40c0-b199-4faec2972d9f)
 ![Screenshot 2024-03-23 134053](https://github.com/adityarahul10/amazon-clone-html-css/assets/155125420/2c4459c2-531c-432c-8f2b-852e13f36cbe)
 ![Screenshot 2024-03-23 134117](https://github.com/adityarahul10/amazon-clone-html-css/assets/155125420/386b145e-a731-415b-b1ea-ba26ff4ddb7b)
@@ -10,6 +12,6 @@ This is the core code from scratch to clone the landing page of **Amazon** using
 
 <p align="center">
 
-[![built with love](https://forthebadge.com/images/badges/built-with-love.svg)](https://github.com/Susmita-Dey/Netflix-Clone)
+[![built with love](https://forthebadge.com/images/badges/built-with-love.svg)](https://github.com/adityarahul10/Netflix-clone-html-css)
 
 </p>
