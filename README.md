@@ -12,6 +12,6 @@ This is the core code from scratch to clone the landing page of **Amazon** using
 
 <p align="center">
 
-[![built with love](https://forthebadge.com/images/badges/built-with-love.svg)](https://github.com/adityarahul10/Netflix-clone-html-css)
+[![built with love](https://forthebadge.com/images/badges/built-with-love.svg)](https://github.com/adityarahul10/amazon-clone-html-css)
 
 </p>
